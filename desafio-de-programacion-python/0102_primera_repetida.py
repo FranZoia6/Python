@@ -1,7 +1,6 @@
 def primera_repetida(text):
     text = text.lower()
     text = text.replace(" ", "")
-    lenText = 0
     for char in text:
         cantChar= text.count(char)
         if cantChar>1:
