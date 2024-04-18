@@ -6,5 +6,4 @@ def elementos_repetidos(lista):
     return repetidos
 
 
-print(elementos_repetidos([1,23,3,1,3,5,23]))
-#    text.count(char)
+print(elementos_repetidos(['ana', 'mer','rodri', 'mer', 'fran','fran', 'rodri']))
