@@ -5,4 +5,4 @@ def sligfy(text):
     text = text.replace(' ', '-')
     return text
 
-print(sligfy('no-se que eL est!o'))
+print(sligfy('no-se que eS est!o'))
