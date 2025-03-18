@@ -1,0 +1,1 @@
+echo "Impresion en consola desde bash"
